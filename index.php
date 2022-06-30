@@ -3,4 +3,4 @@
 echo "hello php and js";
 
 
-echo "and id ioka";
+echo "and id oka";
